@@ -15,6 +15,7 @@
 | Files changed | 5,905 |
 | Active months | 93 |
 | Repositories touched | 45 |
+| Code reviews given | **3,657** |
 | Peak month | 2025-07 (26 PRs merged) |
 
 ## Top Repositories
