@@ -11,7 +11,7 @@
 | PRs merged | **704** |
 | Lines added | 201,902 |
 | Lines removed | 243,475 |
-| Net lines | -41,573 |
+| Net lines | 🏆🔥 -41,573 |
 | Files changed | 5,905 |
 | Active months | 93 |
 | Repositories touched | 45 |
